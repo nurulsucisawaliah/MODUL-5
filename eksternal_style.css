@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(42, 186, 211);
+}
+h1{
+    color: rgb(31, 111, 158);
+}
+
+p{
+    color: cornsilk;
+    font-family: 'Courier New', Courier, monospace;
+}
