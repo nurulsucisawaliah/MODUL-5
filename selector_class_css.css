@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(42, 186, 211);
+}
+h1{
+    color: rgb(31, 111, 158);
+}
+
+p{
+    color: cornsilk;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.persegi{
+    padding: 30px;
+    width: fit-content;
+    color: darkgrey;
+    margin: 20px;
+    background: rgb(43, 118, 189);
+}
+
+.persegiPersegi{
+    padding: 50px;
+    width: fit-content;
+    color: darkgrey;
+    margin: 20px;
+    background: rgb(179, 137, 23);
+}
