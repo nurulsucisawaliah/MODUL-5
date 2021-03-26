@@ -1,0 +1,34 @@
+h1{
+    font-family: 'Trebuchet MS';
+    color: crimson;
+}
+
+ul{
+    overflow: hidden;
+    background-color: darkcyan;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    width: 600px;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    color: bisque;
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}
+
+li a :hover{
+    background-color: darkcyan;
+}
+
+img{
+    height: 150px;
+    width: 600px;
+}
